@@ -1,11 +1,11 @@
 {
-  "version": "0.5.2",
-  "url": "https://github.com/Duyhieu1017/aram-hon-loan-releases/releases/download/mac-v0.5.2/ARAM-Hon-Loan-0.5.2-mac.zip",
-  "dmg": "https://github.com/Duyhieu1017/aram-hon-loan-releases/releases/download/mac-v0.5.2/ARAM-Hon-Loan-0.5.2-mac.dmg",
-  "sha256": "67a336aff641f0f94966c3218c36e4c71a4d9b328be6f5bab4e0451a85d72b11",
-  "size": 57343719,
-  "dmgSize": 57521074,
-  "notes": "Đường dẫn trang giới thiệu và chính sách quyền riêng tư chuyển sang www.yuumi.ap.vn.",
-  "date": "2026-11-27T06:29:08.026Z",
+  "version": "0.5.3",
+  "url": "https://github.com/Duyhieu1017/aram-hon-loan-releases/releases/download/mac-v0.5.3/ARAM-Hon-Loan-0.5.3-mac.zip",
+  "dmg": "https://github.com/Duyhieu1017/aram-hon-loan-releases/releases/download/mac-v0.5.3/ARAM-Hon-Loan-0.5.3-mac.dmg",
+  "sha256": "292849b0a70157a29e6bcfe05321d6c5b2b216442d45f2eefcf0c0d5af3ec0af",
+  "size": 57349396,
+  "dmgSize": 57532803,
+  "notes": "Thêm đường dẫn lấy app Android ở màn ghép điện thoại và trong Cài đặt; bản iPhone sắp có.",
+  "date": "2026-11-27T07:18:25.384Z",
   "minimumSystemVersion": "15.0"
 }
