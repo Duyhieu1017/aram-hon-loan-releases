@@ -1,11 +1,11 @@
 {
-  "version": "0.5.5",
-  "url": "https://github.com/Duyhieu1017/aram-hon-loan-releases/releases/download/mac-v0.5.5/ARAM-Hon-Loan-0.5.5-mac.zip",
-  "dmg": "https://github.com/Duyhieu1017/aram-hon-loan-releases/releases/download/mac-v0.5.5/ARAM-Hon-Loan-0.5.5-mac.dmg",
-  "sha256": "e857c6a01d0332bc4507d225c25186a4704313fbfb1dcd634a86897158c569e7",
-  "size": 57286185,
-  "dmgSize": 57369911,
-  "notes": "Hết trận là tự tải clip lên ngay; lịch sử đấu cập nhật sau khoảng 15 giây (tự thử lại nếu League chưa có trận mới).",
-  "date": "2026-11-27T13:33:24.034Z",
+  "version": "0.5.6",
+  "url": "https://github.com/Duyhieu1017/aram-hon-loan-releases/releases/download/mac-v0.5.6/ARAM-Hon-Loan-0.5.6-mac.zip",
+  "dmg": "https://github.com/Duyhieu1017/aram-hon-loan-releases/releases/download/mac-v0.5.6/ARAM-Hon-Loan-0.5.6-mac.dmg",
+  "sha256": "b0a195c23d3fe19ce78c5d08ffe3bb3f7aefebe449e3563dc15ea4de82638c50",
+  "size": 57286331,
+  "dmgSize": 57369999,
+  "notes": "Hết trận, clip lên Drive ngay khi cắt xong.",
+  "date": "2026-11-27T14:07:08.395Z",
   "minimumSystemVersion": "15.0"
 }
