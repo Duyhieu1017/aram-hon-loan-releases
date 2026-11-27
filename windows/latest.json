@@ -1,0 +1,8 @@
+{
+  "version": "0.5.0",
+  "url": "https://github.com/Duyhieu1017/aram-hon-loan-releases/releases/download/win-v0.5.0/ARAM-Hon-Loan-Setup-0.5.0-x64.exe",
+  "sha256": "232af60c9ecc308ad2dce24243b94f02c4e5890866ae26f32c409da9b38e115b",
+  "size": 166700735,
+  "notes": "Bản Windows đầu tiên của ARAM Hỗn Loạn: tự ghi trận Hỗn Loạn và cắt clip, lịch sử đấu, thống kê, xem clip, điều khiển League từ điện thoại, đồng bộ Google Drive / YouTube và tự cập nhật.\nChưa thử trên máy Windows thật: ghi League (cửa sổ game, tiếng hệ thống) chưa được kiểm tra. Vào Cài đặt → Ghi trận → Quay thử 5 giây để kiểm tra trước khi vào trận.\nBộ cài chưa ký số: nếu Windows SmartScreen chặn, bấm Thông tin thêm → Vẫn chạy.",
+  "date": "2026-11-27T05:54:55.092Z"
+}
