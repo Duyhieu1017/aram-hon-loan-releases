@@ -1,11 +1,11 @@
 {
-  "version": "0.5.1",
-  "url": "https://github.com/Duyhieu1017/aram-hon-loan-releases/releases/download/mac-v0.5.1/ARAM-Hon-Loan-0.5.1-mac.zip",
-  "dmg": "https://github.com/Duyhieu1017/aram-hon-loan-releases/releases/download/mac-v0.5.1/ARAM-Hon-Loan-0.5.1-mac.dmg",
-  "sha256": "c124f382f31dbe250b35ebef429ff31a4eade0e55eee75b8789658a141785d1c",
-  "size": 57343695,
-  "dmgSize": 57521132,
-  "notes": "Bản Mac tải từ web: kèm sẵn Node và ffmpeg, không cần cài thêm gì. Tự cập nhật: tải ở nền, chỉ cài khi không có trận. Mô tả lõi khi rê chuột, tìm tướng và lõi, màn Điều khiển.",
-  "date": "2026-11-27T05:33:36.932Z",
+  "version": "0.5.2",
+  "url": "https://github.com/Duyhieu1017/aram-hon-loan-releases/releases/download/mac-v0.5.2/ARAM-Hon-Loan-0.5.2-mac.zip",
+  "dmg": "https://github.com/Duyhieu1017/aram-hon-loan-releases/releases/download/mac-v0.5.2/ARAM-Hon-Loan-0.5.2-mac.dmg",
+  "sha256": "67a336aff641f0f94966c3218c36e4c71a4d9b328be6f5bab4e0451a85d72b11",
+  "size": 57343719,
+  "dmgSize": 57521074,
+  "notes": "Đường dẫn trang giới thiệu và chính sách quyền riêng tư chuyển sang www.yuumi.ap.vn.",
+  "date": "2026-11-27T06:29:08.026Z",
   "minimumSystemVersion": "15.0"
 }
