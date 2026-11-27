@@ -1,11 +1,11 @@
 {
-  "version": "0.5.3",
-  "url": "https://github.com/Duyhieu1017/aram-hon-loan-releases/releases/download/mac-v0.5.3/ARAM-Hon-Loan-0.5.3-mac.zip",
-  "dmg": "https://github.com/Duyhieu1017/aram-hon-loan-releases/releases/download/mac-v0.5.3/ARAM-Hon-Loan-0.5.3-mac.dmg",
-  "sha256": "292849b0a70157a29e6bcfe05321d6c5b2b216442d45f2eefcf0c0d5af3ec0af",
-  "size": 57349396,
-  "dmgSize": 57532803,
-  "notes": "Thêm đường dẫn lấy app Android ở màn ghép điện thoại và trong Cài đặt; bản iPhone sắp có.",
-  "date": "2026-11-27T07:18:25.384Z",
+  "version": "0.5.4",
+  "url": "https://github.com/Duyhieu1017/aram-hon-loan-releases/releases/download/mac-v0.5.4/ARAM-Hon-Loan-0.5.4-mac.zip",
+  "dmg": "https://github.com/Duyhieu1017/aram-hon-loan-releases/releases/download/mac-v0.5.4/ARAM-Hon-Loan-0.5.4-mac.dmg",
+  "sha256": "cce48860dcefa55ca6cc60310e0559eeb739e14e968bf4e71b1aee22496a53fd",
+  "size": 57391889,
+  "dmgSize": 57524074,
+  "notes": "Cắt cả lúc bạn la hét; chọn pha hay nhất trận và báo sang điện thoại; nút chia sẻ ở từng clip; biểu đồ hoạt động có trục, rê chuột xem từng trận, bấm để mở trận.",
+  "date": "2026-11-27T10:16:25.535Z",
   "minimumSystemVersion": "15.0"
 }
