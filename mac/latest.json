@@ -1,11 +1,11 @@
 {
-  "version": "0.5.4",
-  "url": "https://github.com/Duyhieu1017/aram-hon-loan-releases/releases/download/mac-v0.5.4/ARAM-Hon-Loan-0.5.4-mac.zip",
-  "dmg": "https://github.com/Duyhieu1017/aram-hon-loan-releases/releases/download/mac-v0.5.4/ARAM-Hon-Loan-0.5.4-mac.dmg",
-  "sha256": "cce48860dcefa55ca6cc60310e0559eeb739e14e968bf4e71b1aee22496a53fd",
-  "size": 57391889,
-  "dmgSize": 57524074,
-  "notes": "Cắt cả lúc bạn la hét; chọn pha hay nhất trận và báo sang điện thoại; nút chia sẻ ở từng clip; biểu đồ hoạt động có trục, rê chuột xem từng trận, bấm để mở trận.",
-  "date": "2026-11-27T10:16:25.535Z",
+  "version": "0.5.5",
+  "url": "https://github.com/Duyhieu1017/aram-hon-loan-releases/releases/download/mac-v0.5.5/ARAM-Hon-Loan-0.5.5-mac.zip",
+  "dmg": "https://github.com/Duyhieu1017/aram-hon-loan-releases/releases/download/mac-v0.5.5/ARAM-Hon-Loan-0.5.5-mac.dmg",
+  "sha256": "e857c6a01d0332bc4507d225c25186a4704313fbfb1dcd634a86897158c569e7",
+  "size": 57286185,
+  "dmgSize": 57369911,
+  "notes": "Hết trận là tự tải clip lên ngay; lịch sử đấu cập nhật sau khoảng 15 giây (tự thử lại nếu League chưa có trận mới).",
+  "date": "2026-11-27T13:33:24.034Z",
   "minimumSystemVersion": "15.0"
 }
