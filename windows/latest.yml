@@ -1,9 +1,9 @@
-version: 0.5.0
+version: 0.5.3
 files:
-  - url: https://github.com/Duyhieu1017/aram-hon-loan-releases/releases/download/win-v0.5.0/ARAM-Hon-Loan-Setup-0.5.0-x64.exe
-    sha512: gW5bNZaWU0URvIhkHtLee0enXdSJioiYPwDDkAIOvhhaUmMZAYsFJdG8YbGRJ4ylNk1FSPhNmkH9aduGl2sNqQ==
-    size: 166700735
-path: https://github.com/Duyhieu1017/aram-hon-loan-releases/releases/download/win-v0.5.0/ARAM-Hon-Loan-Setup-0.5.0-x64.exe
-sha512: gW5bNZaWU0URvIhkHtLee0enXdSJioiYPwDDkAIOvhhaUmMZAYsFJdG8YbGRJ4ylNk1FSPhNmkH9aduGl2sNqQ==
-releaseDate: '2026-11-27T05:54:55.092Z'
-releaseNotes: "Bản Windows đầu tiên của ARAM Hỗn Loạn: tự ghi trận Hỗn Loạn và cắt clip, lịch sử đấu, thống kê, xem clip, điều khiển League từ điện thoại, đồng bộ Google Drive / YouTube và tự cập nhật.\nChưa thử trên máy Windows thật: ghi League (cửa sổ game, tiếng hệ thống) chưa được kiểm tra. Vào Cài đặt → Ghi trận → Quay thử 5 giây để kiểm tra trước khi vào trận.\nBộ cài chưa ký số: nếu Windows SmartScreen chặn, bấm Thông tin thêm → Vẫn chạy."
+  - url: https://github.com/Duyhieu1017/aram-hon-loan-releases/releases/download/win-v0.5.3/ARAM-Hon-Loan-Setup-0.5.3-x64.exe
+    sha512: QUZIqJOi4gOPyrkx6+UG3bSPVe+t/kftsJbUN4arTwNHRq53RA8qeOltRn40NvrOHp9yLer6a1q+VjjuBxHpUw==
+    size: 166701248
+path: https://github.com/Duyhieu1017/aram-hon-loan-releases/releases/download/win-v0.5.3/ARAM-Hon-Loan-Setup-0.5.3-x64.exe
+sha512: QUZIqJOi4gOPyrkx6+UG3bSPVe+t/kftsJbUN4arTwNHRq53RA8qeOltRn40NvrOHp9yLer6a1q+VjjuBxHpUw==
+releaseDate: '2026-11-27T07:31:06.539Z'
+releaseNotes: "Cùng số phiên bản với app Mac (0.5.3).\n- Nút Cập nhật trên thanh trên cùng và trong khay hệ thống khi bản mới đã tải xong; Cài đặt → Cập nhật hiện Có gì mới; tự cài khi League đang tắt hoặc khi thoát app, không bao giờ giữa trận.\n- Link Lấy bản Android (thử nghiệm kín trên Google Play); bản iPhone sắp có.\n- Link trang web chuyển sang www.yuumi.ap.vn.\nChưa thử trên máy Windows thật: ghi League (cửa sổ game, tiếng hệ thống) chưa được kiểm tra. Vào Cài đặt → Ghi trận → Quay thử 5 giây để kiểm tra trước khi vào trận."
