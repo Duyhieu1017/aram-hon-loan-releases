@@ -1,8 +1,8 @@
 {
-  "version": "0.5.6",
-  "url": "https://github.com/Duyhieu1017/aram-hon-loan-releases/releases/download/win-v0.5.6/ARAM-Hon-Loan-Setup-0.5.6-x64.exe",
-  "sha256": "3afe239cdde98c22eb0f44f9b3399f673a9f3e60e6d489a1ac7dca028808e7bd",
-  "size": 166709190,
-  "notes": "- Bấm thông báo sau trận là mở thẳng pha hay nhất, phát từ đúng lúc diễn ra.\n- Trận đã ghi mà không có pha nào vẫn hiện ở màn Clip: xem lại, xoá, hoặc Cắt lại.\n- Tải clip lên ngay sau trận, lịch sử trận cập nhật sau vài giây.\n- Trạng thái bộ ghi rõ hơn: \"Đang tìm cửa sổ game…\" rồi \"Đang ghi cửa sổ League\" hoặc \"Đang ghi toàn màn hình\".\n- Quay thử 5 giây theo đúng cài đặt micro; kết quả báo riêng hình, tiếng game và micro.\n- Thống kê lọc theo chế độ: Hỗn Loạn / ARAM thường / Tất cả. Thẻ lõi chỉ so với các trận Hỗn Loạn.\n- Dùng bàn phím được ở ô chỉ số, bảng tướng, hàng trận và các trang chi tiết.\n- Sửa: bấm Xem clip từ trang tướng/lõi không còn bị trang đó che.\nChưa thử trên máy Windows thật: ghi League (cửa sổ game, tiếng hệ thống) chưa được kiểm tra. Vào Cài đặt → Ghi trận → Quay thử 5 giây để kiểm tra trước khi vào trận.",
-  "date": "2026-11-28T08:24:31.856Z"
+  "version": "0.5.7",
+  "url": "https://github.com/Duyhieu1017/aram-hon-loan-releases/releases/download/win-v0.5.7/ARAM-Hon-Loan-Setup-0.5.7-x64.exe",
+  "sha256": "45a73dd5e3f4a9a37459afa872ebb2cd230814ac4a5c8d477e84c7aa367f4b28",
+  "size": 166709551,
+  "notes": "Cùng số phiên bản với app Mac (0.5.7).\n- Màn Clip dùng được bằng bàn phím: Tab tới clip, Enter hoặc Space để xem.\n- Khi các bản ghi chưa có clip vượt 10 GB, màn Clip nhắc kèm nút Xoá tất cả (chuyển vào Thùng rác).\nChưa thử trên máy Windows thật: ghi League (cửa sổ game, tiếng hệ thống) chưa được kiểm tra. Vào Cài đặt → Ghi trận → Quay thử 5 giây để kiểm tra trước khi vào trận.",
+  "date": "2026-11-28T08:39:59.556Z"
 }
