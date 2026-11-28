@@ -1,11 +1,11 @@
 {
-  "version": "0.5.7",
-  "url": "https://github.com/Duyhieu1017/aram-hon-loan-releases/releases/download/mac-v0.5.7/ARAM-Hon-Loan-0.5.7-mac.zip",
-  "dmg": "https://github.com/Duyhieu1017/aram-hon-loan-releases/releases/download/mac-v0.5.7/ARAM-Hon-Loan-0.5.7-mac.dmg",
-  "sha256": "3749424f5ea057ed0b167eef161a8712dadfeed4e53274ee374621eba165d4ac",
-  "size": 57507812,
-  "dmgSize": 57677203,
-  "notes": "- Bấm thông báo sau trận là mở thẳng pha hay nhất, phát từ đúng lúc diễn ra.\n- Trận đã ghi mà không có pha nào vẫn hiện ở màn Clip: xem lại, xoá, hoặc Cắt lại. Quá 10 GB thì app nhắc kèm nút Xoá tất cả.\n- Trạng thái bộ ghi rõ hơn: \"Đang tìm cửa sổ game…\" rồi \"Đang ghi cửa sổ League\" hoặc \"Đang ghi toàn màn hình\".\n- Thống kê lọc theo chế độ: Hỗn Loạn / ARAM thường / Tất cả. Thẻ lõi chỉ so với các trận Hỗn Loạn.\n- Hướng dẫn ghép điện thoại khớp với app Android mới.\n- Sửa: bấm Xem clip từ trang tướng/lõi không còn bị trang đó che.",
-  "date": "2026-11-28T08:40:32.010Z",
+  "version": "0.5.8",
+  "url": "https://github.com/Duyhieu1017/aram-hon-loan-releases/releases/download/mac-v0.5.8/ARAM-Hon-Loan-0.5.8-mac.zip",
+  "dmg": "https://github.com/Duyhieu1017/aram-hon-loan-releases/releases/download/mac-v0.5.8/ARAM-Hon-Loan-0.5.8-mac.dmg",
+  "sha256": "288074bb941968bba281b7f26385927a1199fdc9cd62573008a312b5d09295f7",
+  "size": 57682492,
+  "dmgSize": 57761807,
+  "notes": "- Điều khiển từ điện thoại có phòng: chấp nhận lời mời, vào phòng mở của bạn bè, mời bạn bè hoặc mời bằng Riot ID, nhường chủ phòng, mời ra khỏi phòng, mở hoặc đóng phòng, chat trong phòng, voice tổ đội.\n- Màn Điều khiển trên Mac cũng có đủ các việc trên.\n- Nói vào voice League bằng micro điện thoại: cần BlackHole 2ch trên Mac; app tự chuyển micro của League sang BlackHole khi bạn bật trên điện thoại và trả lại micro cũ khi tắt.\nMới: mời, kick, voice nhiều người và micro điện thoại chưa thử với người chơi thật.",
+  "date": "2026-11-28T09:55:45.565Z",
   "minimumSystemVersion": "15.0"
 }
