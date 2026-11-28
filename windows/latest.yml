@@ -1,9 +1,9 @@
-version: 0.5.7
+version: 0.5.8
 files:
-  - url: https://github.com/Duyhieu1017/aram-hon-loan-releases/releases/download/win-v0.5.7/ARAM-Hon-Loan-Setup-0.5.7-x64.exe
-    sha512: WHdwcOgNlbqO6R/tb+XEzklH59UmDmvVGngni7iB3ImL98K7yKyYCmdA8ExjBCiXyUtpmuJdfhbpDcWHEbrftQ==
-    size: 166709551
-path: https://github.com/Duyhieu1017/aram-hon-loan-releases/releases/download/win-v0.5.7/ARAM-Hon-Loan-Setup-0.5.7-x64.exe
-sha512: WHdwcOgNlbqO6R/tb+XEzklH59UmDmvVGngni7iB3ImL98K7yKyYCmdA8ExjBCiXyUtpmuJdfhbpDcWHEbrftQ==
-releaseDate: '2026-11-28T08:39:59.556Z'
-releaseNotes: "Cùng số phiên bản với app Mac (0.5.7).\n- Màn Clip dùng được bằng bàn phím: Tab tới clip, Enter hoặc Space để xem.\n- Khi các bản ghi chưa có clip vượt 10 GB, màn Clip nhắc kèm nút Xoá tất cả (chuyển vào Thùng rác).\nChưa thử trên máy Windows thật: ghi League (cửa sổ game, tiếng hệ thống) chưa được kiểm tra. Vào Cài đặt → Ghi trận → Quay thử 5 giây để kiểm tra trước khi vào trận."
+  - url: https://github.com/Duyhieu1017/aram-hon-loan-releases/releases/download/win-v0.5.8/ARAM-Hon-Loan-Setup-0.5.8-x64.exe
+    sha512: rlCw+DmYfuZuTG/NbKfin1VWsSDPYcepUE3xb4droatxDbHtia5pF/yOAgmcXE77XNzRKWbhijYu/th3YkTaiA==
+    size: 166717860
+path: https://github.com/Duyhieu1017/aram-hon-loan-releases/releases/download/win-v0.5.8/ARAM-Hon-Loan-Setup-0.5.8-x64.exe
+sha512: rlCw+DmYfuZuTG/NbKfin1VWsSDPYcepUE3xb4droatxDbHtia5pF/yOAgmcXE77XNzRKWbhijYu/th3YkTaiA==
+releaseDate: '2026-11-28T09:55:09.679Z'
+releaseNotes: "Cùng số phiên bản với app Mac (0.5.8).\n- Màn Điều khiển có phòng: chấp nhận lời mời, vào phòng mở của bạn bè, mời bạn bè hoặc mời bằng Riot ID, nhường chủ phòng, mời ra khỏi phòng, mở hoặc đóng phòng.\n- Chat trong phòng và điều khiển voice tổ đội (vào, rời, tắt micro, tắt tiếng từng người).\n- Điện thoại Android cũng làm được những việc trên khi ghép với máy này.\nMới: mời, kick và voice nhiều người chưa thử với người chơi thật. Chưa thử trên máy Windows thật: vào Cài đặt → Ghi trận → Quay thử 5 giây để kiểm tra trước khi vào trận."
