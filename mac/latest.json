@@ -1,11 +1,11 @@
 {
-  "version": "0.5.6",
-  "url": "https://github.com/Duyhieu1017/aram-hon-loan-releases/releases/download/mac-v0.5.6/ARAM-Hon-Loan-0.5.6-mac.zip",
-  "dmg": "https://github.com/Duyhieu1017/aram-hon-loan-releases/releases/download/mac-v0.5.6/ARAM-Hon-Loan-0.5.6-mac.dmg",
-  "sha256": "b0a195c23d3fe19ce78c5d08ffe3bb3f7aefebe449e3563dc15ea4de82638c50",
-  "size": 57286331,
-  "dmgSize": 57369999,
-  "notes": "Hết trận, clip lên Drive ngay khi cắt xong.",
-  "date": "2026-11-27T14:07:08.395Z",
+  "version": "0.5.7",
+  "url": "https://github.com/Duyhieu1017/aram-hon-loan-releases/releases/download/mac-v0.5.7/ARAM-Hon-Loan-0.5.7-mac.zip",
+  "dmg": "https://github.com/Duyhieu1017/aram-hon-loan-releases/releases/download/mac-v0.5.7/ARAM-Hon-Loan-0.5.7-mac.dmg",
+  "sha256": "3749424f5ea057ed0b167eef161a8712dadfeed4e53274ee374621eba165d4ac",
+  "size": 57507812,
+  "dmgSize": 57677203,
+  "notes": "- Bấm thông báo sau trận là mở thẳng pha hay nhất, phát từ đúng lúc diễn ra.\n- Trận đã ghi mà không có pha nào vẫn hiện ở màn Clip: xem lại, xoá, hoặc Cắt lại. Quá 10 GB thì app nhắc kèm nút Xoá tất cả.\n- Trạng thái bộ ghi rõ hơn: \"Đang tìm cửa sổ game…\" rồi \"Đang ghi cửa sổ League\" hoặc \"Đang ghi toàn màn hình\".\n- Thống kê lọc theo chế độ: Hỗn Loạn / ARAM thường / Tất cả. Thẻ lõi chỉ so với các trận Hỗn Loạn.\n- Hướng dẫn ghép điện thoại khớp với app Android mới.\n- Sửa: bấm Xem clip từ trang tướng/lõi không còn bị trang đó che.",
+  "date": "2026-11-28T08:40:32.010Z",
   "minimumSystemVersion": "15.0"
 }
